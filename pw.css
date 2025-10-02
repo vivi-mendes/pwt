@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 100px;
+}
+img{
+    height: 15rem;
+    border-radius: 50%;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+div figure{
+    width: 33%;
+    text-align: center;
+    margin:0;
+}
+#es{
+    margin-left: 15%;
+}
